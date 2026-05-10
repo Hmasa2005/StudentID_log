@@ -1,0 +1,24 @@
+{
+  "window_title": "Log System",
+  "notice": "お知らせ",
+  "title1": "入退室管理",
+  "title2": "入退室確認用",
+  "prompt_touch": "学生証をタッチしてください",
+  "no_images_found": "画像が見つかりません",
+  "image_error_prefix": "画像エラー: ",
+  "processed": "処理済み",
+  "take_card": "学生証をお取りください",
+  "re_enter": "再入室",
+  "exit": "退室",
+  "enter": "入室",
+  "recording_failed": "記録に失敗しました",
+  "failed_read_card": "カードの読み取りに失敗しました",
+  "error_label_text": "エラー",
+  "color_left_bg": "#FFD768",
+  "color_right_bg": "#c0e2f0",
+  "color_box_bg": "white",
+  "color_canvas_line": "black",
+  "color_gray_box": "#6E6B64",
+  "icon_path": "img/programmingpark.ico"
+  ,"google_api_path": "GoogleAPI.json"
+}
