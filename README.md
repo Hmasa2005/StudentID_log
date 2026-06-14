@@ -1,6 +1,8 @@
 # StudentID_log
 
-学生証の入退室ログを Google スプレッドシートに記録する Windows アプリです。
+![StudentID_log](/sample/IMG_0311.jpeg)
+
+学生証の入退室ログを Google スプレッドシートに記録するアプリケーションです。
 
 ## 対応カードリーダー
 
