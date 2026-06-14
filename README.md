@@ -1,6 +1,6 @@
 # StudentID_log
 
-<img src="/sample/IMG_0311.jpeg" alt="StudentID_log" width="500">
+<img src="/sample/IMG_0311.jpeg" alt="StudentID_log" width="700">
 
 学生証の入退室ログを Google スプレッドシートに記録するアプリケーションです。
 
